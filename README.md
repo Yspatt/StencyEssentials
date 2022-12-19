@@ -1,1 +1,2 @@
-# StencyEssentials
+# Essentials
+

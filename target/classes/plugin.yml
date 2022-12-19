@@ -1,0 +1,9 @@
+name: StencyEssentials
+version: 1.0-SNAPSHOT
+main: br.com.stency.essentials.Essentials
+api-version: 1.13
+prefix: StencyEssentials
+depend: [Common]
+authors: [Yspatt]
+description: A Essentials plugin
+website: stencynetwork.com
